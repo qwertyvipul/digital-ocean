@@ -3,6 +3,8 @@ Tips &amp; tricks for getting along DigitalOcean
 
 ## Getting started
 
+Follow this [initial server setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04).
+
 ### Create non-root sudo user
 First thing first - you do not want to use your root account! Create a non-root superuser
 ```bash
