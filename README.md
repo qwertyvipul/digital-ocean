@@ -15,6 +15,8 @@ Tips &amp; tricks for getting along DigitalOcean
 
 1. Now you might also want to [install git](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04) for version control.
 
+1. You can also opt to [setup gitlab](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04) if you have enough RAM on your instance (512MB is not enough).
+
 ## Important Links
 1. https://www.wikihow.com/Uninstall-Ubuntu-Software
 1. http://www.ubuntu.thiyagaraaj.com/Home/install-softwares-for-ubuntu/install-mozilla-firefox
